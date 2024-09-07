@@ -1,0 +1,5 @@
+APP_ENV=dev
+HOST="localhost"
+PORT=8004
+NODE_ENV=development
+MONGO_URL=mongodb+srv://:0.f1wmg..net/MessageBroadcast?retryWrites=true&w=majority
